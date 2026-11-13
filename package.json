@@ -1,0 +1,34 @@
+{
+  "name": "dsh-hs-code",
+  "version": "0.1.0",
+  "description": "HS 编码章节查询与归类提示：章/品目/子目拆分、产品关键词候选",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "hs code",
+    "HS 编码",
+    "customs",
+    "tariff",
+    "归类"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-hs-code.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
