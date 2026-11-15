@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-hs-code.svg)](https://deepseekbase.com/plugins/dsh-hs-code/)
 <p align="center"><strong>dsh-hs-code — HS 编码查询与归类提示</strong></p>
 
 查章节、拆品目/子目，按关键词给归类方向。
